@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.cards{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+
+}
+
+.cart-1{
+    background-color: rgba(17, 17, 164, 0.544);
+    width: 280px;
+    height: 300px;
+    border: 1px solid #666;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #333;
+    border-radius: 30px;
+    margin-right:10px;
+    transition: all 1s;
+}
+.cart-1 i {
+    margin-top: 5px;
+    background-color: blue;
+    padding: 20px;
+    color: white;
+}
+
+.cart-1 h3{
+    margin: 10px 0 5px 0;
+color: white;
+}
+
+.cart-1 p{
+    color:white;
+}
+
+.cart-1 hr{
+    margin: 25px 0;
+    padding: 1px ;
+    background-color: blue;
+    color: blue;
+}
+
+.cart-1 button{
+    margin:  0;
+    margin-top: 15px;
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px 10px ;
+   
+}
+
+.cart-1:hover{
+   background-color: green;
+}
+
+
+.cart-2{
+    background-color: rgba(17, 17, 164, 0.544);
+    width: 280px;
+    height: 300px;
+    border: 1px solid #666;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #333;
+    border-radius: 30px;
+    margin-right:10px;
+    transition: all 1s;
+}
+.cart-2 i {
+    margin-top: 5px;
+    background-color: blue;
+    padding: 20px;
+    color: white;
+}
+
+.cart-2 h3{
+    margin: 10px 0 5px 0;
+color: white;
+}
+
+.cart-2 p{
+    color:white;
+}
+
+.cart-2 hr{
+    margin: 25px 0;
+    padding: 1px ;
+    background-color: blue;
+    color: blue;
+}
+
+.cart-2 button{
+    margin:  0;
+    margin-top: 15px;
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px 10px ;
+   
+}
+
+.cart-2:hover{
+   background-color: green;
+}
+
+
+.cart-3{
+    background-color: rgba(58, 58, 148, 0.544);
+    width: 280px;
+    height: 300px;
+    border: 1px solid #666;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #333;
+    border-radius: 30px;
+    margin-right:10px;
+    transition: all 1s;
+}
+.cart-3 {
+    margin-top: 5px;
+    background-color: blue;
+    padding: 20px;
+    color: white;
+}
+
+.cart-3 h3{
+    margin: 10px 0 5px 0;
+color: white;
+}
+
+.cart-3 p{
+    color:white;
+}
+
+.cart-3 hr{
+    margin: 25px 0;
+    padding: 1px ;
+    background-color: blue;
+    color: blue;
+}
+
+.cart-3 button{
+    margin:  0;
+    margin-top: 15px;
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px 10px ;
+   
+}
+
+.cart-3:hover{
+   background-color: green;
+}
+
+
